@@ -1,4 +1,6 @@
 # deep-q-learning
-Mountain car solution with deep Q learining.
-https://user-images.githubusercontent.com/47858828/121816049-13817c80-cc82-11eb-9642-ceaa4dd54cd1.mp4
+Mountain car solution with deep Q learining.\
+Sample:\
+![sample](https://user-images.githubusercontent.com/47858828/121816185-d49ff680-cc82-11eb-9beb-88e895b01a3b.gif)
+
 
